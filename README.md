@@ -1,8 +1,6 @@
 # Employee-Management-with-DSA
 This system not only serves as a practical tool for managing employee information but also embodies a real-world application of algorithm analysis through the monitoring of time and space complexity during its operations.
 
-Creating a well-structured README file is essential for any GitHub repository, as it provides potential users and contributors with the necessary information about your project. Below is a template for a README file for your Employee Management System project that includes all the relevant sections and details:
-
 ```markdown
 # Employee Management System
 
